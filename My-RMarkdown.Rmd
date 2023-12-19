@@ -2,9 +2,7 @@
 title: "Test-GitHub-RMarkdown"
 author: "Cannatella"
 date: "2023-12-19"
-output: 
-  html_document:
-    keep_md: true
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
